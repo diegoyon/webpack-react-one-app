@@ -4,4 +4,5 @@ class GreetingsController < ApplicationController
     @mesage = Greeting.find(random_number)
     render json: @mesage
   end
+
 end
