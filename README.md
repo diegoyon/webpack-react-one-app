@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello Rails Back End
+# Rails and React
 
-> Simple API that generates random greetings.
+> Single page application using React that fetches a random greeting from a Rails API.
 
 ## Built With
 
